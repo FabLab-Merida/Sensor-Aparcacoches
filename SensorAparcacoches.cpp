@@ -1,5 +1,3 @@
-#include <Arduino.h>
-
 /*
 * CONFIGURACION DE LA DISTRIBUCION DE PINES
 */
